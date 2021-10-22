@@ -1,1 +1,1 @@
-main.svelte-1tky8bj{text-align:center;padding:1em;max-width:240px;margin:0 auto}h1.svelte-1tky8bj{color:#ff3e00;text-transform:uppercase;font-size:4em;font-weight:100}@media(min-width: 640px){main.svelte-1tky8bj{max-width:none}}
+.star-rating.svelte-8fro78{display:flex;justify-content:center;gap:4px}.c-star.svelte-8fro78{width:var(--size, 50px);height:var(--size, 50px);fill:#FFF}.c-star.active.svelte-8fro78{fill:#F2C94C}
